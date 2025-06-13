@@ -1,0 +1,11 @@
+// print in serial monitor
+void setup()
+{
+ Serial.begin(9600);
+ }
+ void loop()
+ {
+   Serial.Println("hello sriram welcome to learn");
+   delay(2000);
+   }
+   
