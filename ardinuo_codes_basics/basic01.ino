@@ -1,6 +1,8 @@
+//code for blink the led once
+
 void setup() { 
   pinMode(12,OUTPUT);
-  // put your setup code here, to run once:
+  // here i configure the pin;
 
 }
 
